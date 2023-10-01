@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  background-color: #000000;
+  padding-bottom: 50px;
+}
+.prime-video-img {
+  width: 100%;
+}
+.heading {
+  color: white;
+}
+.movies-container {
+  padding: 20px;
+}
